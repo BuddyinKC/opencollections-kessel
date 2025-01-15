@@ -19,6 +19,8 @@ This site is generated using [`collectionbuilder-gh`](https://collectionbuilding
 
 The base site features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
+This site was generated ages ago for an online class. 
+
 ## About the About Page
 
 We want to make About pages exciting, and easy to build. 
